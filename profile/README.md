@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="1920" alt="Banner OhMyApps" src="../assets/banner.png" />
+  <img width="1920" alt="Banner OhMyApps" src="https://cdn.wefaber.net/orgs/ohmyapps-org/banner.png" />
 
   <h1>OhMyApps</h1>
   <p><strong>Productividad sin fricción.</strong> Una suite entera de productos enfocados para crear, organizar y presentar trabajo.</p>
